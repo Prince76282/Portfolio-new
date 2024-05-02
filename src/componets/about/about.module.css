@@ -69,6 +69,11 @@
         padding-left: 0;
         padding-right: 0;
 
+
+    }
+    .title{
+        display: flex;
+        text-align: center;
     }
     .content{
         flex-direction: column;
