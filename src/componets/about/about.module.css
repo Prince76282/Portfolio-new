@@ -73,9 +73,11 @@
     }
     .title{
         display: flex;
-        text-align: center;
+        align-items: center;
+        justify-content: center;
     }
     .content{
+        
         flex-direction: column;
     }
     .aboutImage{
@@ -89,5 +91,12 @@
         padding-left: 0;
         padding-right: 0;
         
+    }
+    .ItemText h3{
+        margin-bottom: 10px;
+        
+    }
+    .ItemText {
+    text-align:start;
     }
 }
