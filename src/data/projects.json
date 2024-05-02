@@ -1,0 +1,47 @@
+[
+    {
+      "title": "E CELL",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JAVASCRIPT"],
+      "demo": "https://prince76282.github.io/ECellPTU/",
+      "source": "https://github.com/Prince76282/ECellPTU.git"
+    },
+    {
+      "title": "Assignment",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JAVASCRIPT"],
+      "demo": " https://prince76282.github.io/assigment/",
+      "source": "https://github.com/Prince76282/assigment.git"
+    },
+    {
+      "title": "React-app",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "CSS", "JAVASCRIPT"],
+      "demo": " https://6633bb07aae3300e2cf535ab--silly-baklava-0551bd.netlify.app/",
+      "source": "https://github.com/Prince76282/React-app.git"
+    }
+    ,
+    {
+      "title": "Shopping",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "CSS", "JAVASCRIPT"],
+      "demo": "https://lovely-horse-4139c1.netlify.app",
+      "source": "https://github.com/Prince76282/Shopping.git"
+    }
+    ,
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "CSS", "JAVASCRIPT"],
+      "demo": "https://effervescent-halva-8a53c8.netlify.app",
+      "source": "https://github.com/Prince76282/Portfolio.git"
+    }
+    
+  
+  ]
+  
