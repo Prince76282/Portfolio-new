@@ -17,10 +17,6 @@ function App() {
   <Experience/>
   <Projects/>
   <Contact/>
-
-{/* <Contact/> */}
-
-
       </div>
   );
 }
