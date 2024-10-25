@@ -1,4 +1,4 @@
-import React from "react";
+
 import styles from "./about.module.css";
 import { getImageUrl } from "../../util";
 
@@ -36,7 +36,7 @@ const About = () => {
                 <p>
                 My interests include Reading Books, Listening a Music,
                  and Playing Chess. I have Experience in HTML, CSS, JavaScript, Bootstrap, 
-                 and React, I'm constantly learn and grow.
+                 and React, Node.js , MongoDb , Express .  I'm constantly learn and grow.
                 </p>
 
               </div>

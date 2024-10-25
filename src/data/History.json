@@ -1,11 +1,19 @@
 [
     {
-        "role": "Software Engineer",
-        "organization": "github.com",
-        "startDate": "aug 10",
-        "endDate": "aug 24",
-        "expreiences":"1years",
-        "imageSrc":"history/google.png"
+        "role": "FrontEnd Developer",
+        "organization": "Oqulous AGI",
+        "startDate": "10 AUG 2014",
+        "endDate": "10 OCT 2024",
+        "expreiences":"2 years",
+        "imageSrc":"history/oqlous.jpg"
+    },
+    {
+        "role": "FULL STACK Developer",
+        "organization": "TATA MOTORS",
+        "startDate": " 3 JULY 2024",
+        "endDate": " 5 AUG 2024",
+        "expreiences":"2 years",
+        "imageSrc":"history/Tatamotors.jpg"
     }
 
 ]

@@ -28,6 +28,28 @@
     ,{
         "title": "GitHub",
         "imageSrc":"skills/github.png"
+    },
+    {
+        "title": "Node.js",
+        "imageSrc":"skills/nodejs.png"
     }
+    ,
+    {
+        "title": "Python",
+        "imageSrc":"skills/python.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc":"skills/mongodb.png"
+    },
+   
+    {
+        "title": "Tailwind CSS",
+        "imageSrc":"skills/tailwind.png"
+    } ,
+    {
+        "title": "BootStrap",
+        "imageSrc":"skills/bootStrap.png"
+    }  
 ]
 
