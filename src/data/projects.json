@@ -49,6 +49,14 @@
       "skills": ["React", "CSS", "JAVASCRIPT"],
       "demo": "https://master--regal-dango-8823e3.netlify.app/",
       "source": "https://github.com/Prince76282/Portfolio.git"
+    },
+        {
+      "title": "CollageQuarters",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Tailwind", "JAVASCRIPT","Node.js","FireBase", "Express","MongoDB"],
+      "demo": "https://www.collegequarters.in/",
+      "source": ""
     }
     
   
